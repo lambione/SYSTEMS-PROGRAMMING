@@ -30,13 +30,13 @@ To run any of the exercises with tests:
 
 1. Open your terminal 🖥️
 
-2. Navigate to any exercise directory inside `EXERCISES_WITH_TESTS/`:
+2. Navigate to any exercise directory inside `EXERCISES_WITH_TESTS/<CHOSEN-ONE>`:
 
 3. Run the following command: 
     ```bash
     make
     ```
-    
+
 ✅ This will **automatically compile** the code and **run all associated tests** 🎯  
 No need to compile manually or set up additional scripts – it’s all handled by the Makefile 🧙‍♂️📦
 
