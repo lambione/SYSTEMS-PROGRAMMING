@@ -1,0 +1,3 @@
+Algorithms and Data Structures,S,2
+Systems Programming,S,2
+Programming Fundamentals I,F,4
